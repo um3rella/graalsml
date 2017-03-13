@@ -45,11 +45,16 @@ type Declaration_List =
 type Program =
 	Declaration_List * Instruction;
 
---Declaring program variables
-val Variable = m;
-val Variable = n;
-val Variable = i;
-val variable = result1;
+(*Declaring program variables*)
+val m = Integer_Type;
+val n = Integer_Type;
+val i = Integer_Type;
+val result1 = Integer_Type;
+m := 3;
+n := 9;
+val =
+
+
 
 
 val instruction =
