@@ -1,2 +1,2 @@
 # graalsml
-A Graal-like abstract language system
+A Graal-like abstract language written in Standard Meta Language
